@@ -1,0 +1,15 @@
+/Users/jessachalla/Documents/src/ach-find-invalid-characters/bin/Debug/net7.0/ach-find-invalid-characters
+/Users/jessachalla/Documents/src/ach-find-invalid-characters/bin/Debug/net7.0/ach-find-invalid-characters.deps.json
+/Users/jessachalla/Documents/src/ach-find-invalid-characters/bin/Debug/net7.0/ach-find-invalid-characters.runtimeconfig.json
+/Users/jessachalla/Documents/src/ach-find-invalid-characters/bin/Debug/net7.0/ach-find-invalid-characters.dll
+/Users/jessachalla/Documents/src/ach-find-invalid-characters/bin/Debug/net7.0/ach-find-invalid-characters.pdb
+/Users/jessachalla/Documents/src/ach-find-invalid-characters/obj/Debug/net7.0/ach-find-invalid-characters.csproj.AssemblyReference.cache
+/Users/jessachalla/Documents/src/ach-find-invalid-characters/obj/Debug/net7.0/ach-find-invalid-characters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessachalla/Documents/src/ach-find-invalid-characters/obj/Debug/net7.0/ach-find-invalid-characters.AssemblyInfoInputs.cache
+/Users/jessachalla/Documents/src/ach-find-invalid-characters/obj/Debug/net7.0/ach-find-invalid-characters.AssemblyInfo.cs
+/Users/jessachalla/Documents/src/ach-find-invalid-characters/obj/Debug/net7.0/ach-find-invalid-characters.csproj.CoreCompileInputs.cache
+/Users/jessachalla/Documents/src/ach-find-invalid-characters/obj/Debug/net7.0/ach-find-invalid-characters.dll
+/Users/jessachalla/Documents/src/ach-find-invalid-characters/obj/Debug/net7.0/refint/ach-find-invalid-characters.dll
+/Users/jessachalla/Documents/src/ach-find-invalid-characters/obj/Debug/net7.0/ach-find-invalid-characters.pdb
+/Users/jessachalla/Documents/src/ach-find-invalid-characters/obj/Debug/net7.0/ach-find-invalid-characters.genruntimeconfig.cache
+/Users/jessachalla/Documents/src/ach-find-invalid-characters/obj/Debug/net7.0/ref/ach-find-invalid-characters.dll

@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jessachalla/Documents/src/ach-find-invalid-characters/ach-find-invalid-characters.csproj": {}
+  },
+  "projects": {
+    "/Users/jessachalla/Documents/src/ach-find-invalid-characters/ach-find-invalid-characters.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jessachalla/Documents/src/ach-find-invalid-characters/ach-find-invalid-characters.csproj",
+        "projectName": "ach-find-invalid-characters",
+        "projectPath": "/Users/jessachalla/Documents/src/ach-find-invalid-characters/ach-find-invalid-characters.csproj",
+        "packagesPath": "/Users/jessachalla/.nuget/packages/",
+        "outputPath": "/Users/jessachalla/Documents/src/ach-find-invalid-characters/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jessachalla/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
